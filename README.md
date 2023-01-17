@@ -1,6 +1,6 @@
 ### Olá, sou o Luiz Fernando e seja bem vindo ao meu perfil 😉
 
-<a href="linkedin.com/in/luiz-fernando-lima-de-souza">
+<a href="https://www.linkedin.com/in/luiz-fernando-lima-de-souza">
  <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white" />
 </a>
 
